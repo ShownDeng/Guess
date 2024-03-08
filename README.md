@@ -1,1 +1,2 @@
 # Guess
+This is a project for medicine students to recite those difficult and no-link knowledges,like memory amino acid.This project is base on word at present,but I wish we can add picture later.This project main content is randomly extract from the knowledge you need to remember to form a question ,you need to answer this question.If you answer right,this question will pass.Otherwise,the question will be memoried by computer,and record how many times you answer wrong this question.
